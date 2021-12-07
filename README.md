@@ -9,7 +9,7 @@
 
 <p align="center">
   <b>Take a look at</b><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kenuux&theme=dark&repo=banner-converter&show_owner=true)" />
+  <a href="https://github.com/Kenuux/banner-converter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kenuux&theme=dark&repo=banner-converter&show_owner=true)"></a>
 </p>
 
 <br>
