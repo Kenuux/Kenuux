@@ -10,7 +10,7 @@
 
 <h3 align="center">Take a look at</h3>
 <p align="center">
-  <a href="https://github.com/Kenuux/banner-converter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kenuux&theme=dark&repo=banner-converter&show_owner=true)"></a>
+  <a href="https://github.com/AxolMC/axolotl"><img src="https://github-readme-stats.vercel.app/api/pin/?username=axolmc&theme=dark&repo=axolotl&show_owner=true)"></a>
 </p>
 
 <h3 align="center">Reach me on</h2>
