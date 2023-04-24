@@ -8,11 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kenuux&theme=dark&count_private=true&show_icons=true" />
 </p>
 
-<h3 align="center">Take a look at</h3>
-<p align="center">
-  <a href="https://github.com/AxolMC/axolotl"><img src="https://github-readme-stats.vercel.app/api/pin/?username=axolmc&theme=dark&repo=axolotl&show_owner=true)"></a>
-</p>
-
 <h3 align="center">Reach me on</h2>
 <p align="center">
   <a target="_blank"href="https://twitter.com/kenuuux"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
