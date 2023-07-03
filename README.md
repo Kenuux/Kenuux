@@ -10,8 +10,7 @@
 
 <h3 align="center">Reach me on</h2>
 <p align="center">
-  <a target="_blank"href="https://twitter.com/kenuuux"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:kenox313@gmail.com?subject=Hello%20Kenox,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/kenuuux"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 <h3 align="center">Thank you for visiting me</h3>
