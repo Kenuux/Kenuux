@@ -5,7 +5,7 @@
 
 <h3 align="center">My GitHub stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenuux&theme=dark&count_private=true&show_icons=true" />
+  <img src="https://readme-stats-omega-pearl.vercel.app/api?theme=dark&count_private=true&username=kenuux&show_icons=true" />
 </p>
 
 <h3 align="center">Reach me on</h2>
